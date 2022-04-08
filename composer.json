@@ -1,0 +1,17 @@
+{
+    "name": "wuqb/laravel-codeview",
+    "description": "laravel codeview",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "wuqb",
+            "email": "824543976@qq.com"
+        }
+    ],
+    "autoload": {
+      "psr-4": {
+        "Wqb\\CodeView\\": "src"
+      }
+    },
+    "require": {}
+}
